@@ -12,7 +12,7 @@ Criar um sistema simples que auxilie as pessoas a localizarem dados de pacientes
 Você poderá utilizar banco de dados MongoDB, SQLite, MySQL ou o que você se sentir mais confortável. 
 Se optar por não utilizar um banco de dados, você poderá armazenar em memória no backend.
 
-## Regras gerais
+## Regras gerais:
 Prazo de 7 dias para completar o desafio. 
 O projeto deverá ser disponibilizado em repositório(s) público(s) no GitHub.
 
@@ -62,7 +62,9 @@ Criar também todos os métodos de cadastro (POST, PUT, DELETE E GET).
 * Tornar o layout do front-end responsivo.
 
 
+
 Boa sorte,  
 
 Equipe Odapp
+
 contato@odapp.com.br
