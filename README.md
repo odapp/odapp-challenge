@@ -35,14 +35,14 @@ Criar também todos os métodos de cadastro (POST, PUT, DELETE E GET).
 
 ## 2 – Front-end
 
-- Elaborar um template administrativo (Header, footer, side-menu, etc) utilizando um framework a sua escolha _(Preferencialmente React)_
+- Elaborar um template administrativo (Header, footer, side-menu, etc) utilizando um framework a sua escolha _(Utilizando React)_
 
 - Cadastro de paciente (CRUD)
 
 - Listagem de pacientes
 
 ## 3 – Mobile
-- Elaborar um aplicativo utilizando um framework a sua escolha - _(Preferencialmente React Native)_
+- Elaborar um aplicativo utilizando um framework a sua escolha - _(Utilizando React Native)_
 
 - Listagem de pacientes
 
