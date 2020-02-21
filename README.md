@@ -17,7 +17,7 @@ Prazo de 7 dias para completar o desafio.
 O projeto deverá ser disponibilizado em repositório(s) público(s) no GitHub.
 
 ## 1 – Back-end
-Elaborar um back-end em NodeJS com os seguinte serviço:
+Elaborar um back-end em NodeJS com o seguinte serviço:
 
 ### - Paciente (CRUD)
 Cadastro básico com os seguintes campos
