@@ -10,7 +10,7 @@ A pessoa responsável irá relacionar todos os pacientes atendidos e para isso �
 Criar um sistema simples que auxilie as pessoas a localizarem dados de pacientes em suas tarefas diárias.
 
 Você poderá utilizar banco de dados MongoDB, SQLite, MySQL ou o que você se sentir mais confortável. 
-Se optar por não utilizar um banco de dados, você poderá armazenar em memória no backend.
+Se optar por não utilizar um banco de dados, você poderá armazenar em memória no back-end.
 
 ## Regras gerais:
 Prazo de 7 dias para completar o desafio. 
