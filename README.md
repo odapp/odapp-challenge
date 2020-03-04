@@ -67,4 +67,4 @@ Boa sorte,
 
 Equipe Odapp
 
-contato@odapp.com.br
+thiago@odapp.com.br
