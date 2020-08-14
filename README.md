@@ -41,7 +41,7 @@ Criar também todos os métodos de cadastro (POST, PUT, DELETE E GET).
 
 - Listagem de pacientes
 
-## 3 – Mobile (Diferencial/Opcional)
+## 3 – Mobile
 - Elaborar um aplicativo _(Utilizando React Native)_
 
 - Listagem de pacientes
