@@ -57,7 +57,7 @@ Criar também todos os métodos de cadastro (POST, PUT, DELETE E GET).
 * *Ahh, não se esqueça de documentar os procedimentos para executar a aplicação. (README.md)*
 
 ## Diferenciais
-* Utilização de Redux
+* Utilização de Context
 * Testes unitários
 * Tornar o layout do front-end responsivo.
 
